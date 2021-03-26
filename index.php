@@ -4,19 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>MixiShop</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-  
   <div id="navigation">
     <nav id="topmenu">
         <ul>
           <li><a href="#">Trang Chủ</a></li>
           <li><a href="#">Thông Tin </a></li>
           <li><a href="#">Mặt Hàng</a></li>
-          <li><a href="#">Số Lượng</a></li>
-          <li><a href="#">Đăng ký</a></li>
+          <li><a href="register.html">Đăng Ký</a></li>
+          <li><a href="login.html">Đăng Nhập</a></li>
         </ul>
       </nav>
     </div id ="header"> 
